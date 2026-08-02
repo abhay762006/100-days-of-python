@@ -5,6 +5,7 @@
 ### 🚀 From Beginner to AI Full Stack Developer
 
 *"Consistency beats intensity."*
+*"Every expert was once a beginner who refused to quit."*
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Days](https://img.shields.io/badge/Challenge-100%20Days-success?style=for-the-badge)
@@ -21,7 +22,7 @@ Welcome to my **100 Days of Python Challenge**.
 
 This repository documents my journey of mastering Python through daily coding, projects, problem-solving, and consistent practice.
 
-My goal is not just to learn Python but to build a strong foundation for becoming a **Full Stack AI Developer**.
+My goal is to build a strong foundation in Python while developing problem-solving skills and software development practices that will help me become a Full Stack AI Developer.
 
 Every day I upload:
 
@@ -42,8 +43,9 @@ Every day I upload:
 * ✅ Work with APIs
 * ✅ Learn Automation
 * ✅ Learn Web Development
-* ✅ Learn Data Science Basics
-* ✅ Prepare for AI Development
+* ✅ Learn Data Analysis Fundamentals
+* ✅Build AI and Machine Learning Foundations
+
 
 ---
 
@@ -56,7 +58,7 @@ Every day I upload:
 | Day 3     | ✅ Completed   | Treasure Island     |
 | Day 4     | ✅ Completed   | Rock Paper Scissors |
 | Day 5     | ✅ Completed   | Password Generator  |
-| Day 6     | ✅ Completed   | Reeborg's World Mage Challenge |
+| Day 6     | ✅ Completed   | Reeborg's World Maze Challenge |
 | Day 7–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
@@ -69,7 +71,7 @@ Every day I upload:
 ├── Day-01/
 ├── Day-02/
 ├── Day-03/
-|── .....
+|── ...
 │── Day-100/
 ├── README.md
 └── LICENSE
@@ -123,7 +125,7 @@ Every day I upload:
 | 🏝️ Treasure Island      | Interactive adventure game       |
 | ✊✋✌️ Rock Paper Scissors | Classic game using Python        |
 | 🔐 Password Generator    | Random secure password generator |
-| Reeborg's World Mage Challenge | Learning loop through game |
+| Reeborg's World Maze Challenge | Solve a maze using Python logic and loops |
  
 
 ---
@@ -177,9 +179,8 @@ If you find this repository helpful:
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abhay-giri-852529311
-- 💻 GitHub: https://github.com/abhay762006
----
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abhay-giri-852529311
+- 💻 **GitHub:** https://github.com/abhay762006---
 
 <div align="center">
 
