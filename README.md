@@ -123,6 +123,7 @@ Every day I upload:
 | 🏝️ Treasure Island      | Interactive adventure game       |
 | ✊✋✌️ Rock Paper Scissors | Classic game using Python        |
 | 🔐 Password Generator    | Random secure password generator |
+ 
 
 ---
 
