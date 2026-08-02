@@ -8,6 +8,7 @@ This repository contains my solutions and projects from the **100 Days of Python
 -  ✅ Day 2 – Tip Calculator 
 -  ✅ Day 3 – Treasure Island 
 -  ✅ Day 4 – Rock-Paper-Scissor Game
+-  ✅ Day 5 – Password Generator
   
 
 ## Goal
