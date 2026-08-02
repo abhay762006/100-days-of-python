@@ -171,20 +171,22 @@ If you find this repository helpful:
 
 💡 Share your suggestions
 
----
 
 # 📬 Connect With Me
 
-* GitHub: https://github.com/abhay762006
+* 💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+* 💻 **GitHub:** https://github.com/abhay762006
 
 ---
 
 <div align="center">
 
-## 🚀 Never Stop Learning
+### ⭐ If you like this repository, don't forget to star it!
 
-*"The expert in anything was once a beginner."*
-
-**Thanks for visiting! ❤️**
+🚀 Building one project every day, one step closer to becoming a Full Stack AI Developer.
 
 </div>
+
+
+---
+
