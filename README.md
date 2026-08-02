@@ -56,7 +56,8 @@ Every day I upload:
 | Day 3     | ✅ Completed   | Treasure Island     |
 | Day 4     | ✅ Completed   | Rock Paper Scissors |
 | Day 5     | ✅ Completed   | Password Generator  |
-| Day 6–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 6     | ✅ Completed   | Reeborg's World Mage Challenge |
+| Day 7–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
@@ -68,9 +69,8 @@ Every day I upload:
 ├── Day-01/
 ├── Day-02/
 ├── Day-03/
-├── Day-04/
-├── Day-05/
-│
+|── .....
+│── Day-100/
 ├── README.md
 └── LICENSE
 ```
@@ -123,6 +123,7 @@ Every day I upload:
 | 🏝️ Treasure Island      | Interactive adventure game       |
 | ✊✋✌️ Rock Paper Scissors | Classic game using Python        |
 | 🔐 Password Generator    | Random secure password generator |
+| Reeborg's World Mage Challenge | Learning loop through game |
  
 
 ---
