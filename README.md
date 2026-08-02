@@ -5,6 +5,9 @@ This repository contains my solutions and projects from the **100 Days of Python
 ## Progress
 
 - ✅ Day 1 – Band Name Generator
+  ✅ Day 2 – Tip Calculator 
+  ✅ Day 3 – Treasure Island 
+  ✅ Day 4 – Rock-Paper-Scissor Game
   
 
 ## Goal
