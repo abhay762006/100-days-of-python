@@ -60,7 +60,8 @@ Every day I upload:
 | Day 4     | ✅ Completed   | Rock Paper Scissors |
 | Day 5     | ✅ Completed   | Password Generator  |
 | Day 6     | ✅ Completed   | Reeborg's World Maze Challenge |
-| Day 7–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 7     | ✅ Completed   | Hangman-Game  |
+| Day 8–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
@@ -127,23 +128,11 @@ Every day I upload:
 | ✊✋✌️ Rock Paper Scissors | Classic game using Python        |
 | 🔐 Password Generator    | Random secure password generator |
 | Reeborg's World Maze Challenge | Solve a maze using Python logic and loops |
+| Hangman-Game| Python word guessing game |
  
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay762006\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay762006\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhay762006\&theme=tokyonight)
-
-</div>
-
----
 
 # 📚 What I'm Learning
 
