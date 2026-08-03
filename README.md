@@ -133,19 +133,6 @@ Every day I upload:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay762006\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay762006\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhay762006\&theme=tokyonight)
-
-</div>
-
----
 
 # 📚 What I'm Learning
 
