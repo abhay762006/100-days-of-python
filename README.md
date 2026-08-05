@@ -61,7 +61,8 @@ Every day I upload:
 | Day 5     | ✅ Completed   | Password Generator  |
 | Day 6     | ✅ Completed   | Reeborg's World Maze Challenge |
 | Day 7     | ✅ Completed   | Hangman-Game  |
-| Day 8–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 8    | ✅ Completed   | Caesar Cipher |
+| Day 9–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
@@ -129,6 +130,7 @@ Every day I upload:
 | 🔐 Password Generator    | Random secure password generator |
 | Reeborg's World Maze Challenge | Solve a maze using Python logic and loops |
 | Hangman-Game| Python word guessing game |
+| Caesar Cipher | Encryption/Decryption |
  
 
 ---
