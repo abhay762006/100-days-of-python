@@ -62,6 +62,7 @@ Every day I upload:
 | Day 6     | ✅ Completed   | Reeborg's World Maze Challenge |
 | Day 7     | ✅ Completed   | Hangman-Game  |
 | Day 8    | ✅ Completed   | Caesar Cipher |
+| Day 9    | ✅ Completed   | Blind Auction project |
 | Day 9–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
@@ -131,7 +132,7 @@ Every day I upload:
 | Reeborg's World Maze Challenge | Solve a maze using Python logic and loops |
 | Hangman-Game| Python word guessing game |
 | Caesar Cipher | Encryption/Decryption |
- 
+| Blind Auction | Secret Highest Bid Wins ⭐|
 
 ---
 
