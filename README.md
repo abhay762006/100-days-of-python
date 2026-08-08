@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 From Beginner to AI Full Stack Developer
+### 🚀 From Beginner to AI Full Stack Developer Journey 
 
 *"Consistency beats intensity."*
 
@@ -61,8 +61,8 @@ Every day I upload:
 | Day 5     | ✅ Completed   | Password Generator  |
 | Day 6     | ✅ Completed   | Reeborg's World Maze Challenge |
 | Day 7     | ✅ Completed   | Hangman-Game  |
-| Day 8    | ✅ Completed   | Caesar Cipher |
-| Day 9    | ✅ Completed   | Blind Auction project |
+| Day 8     | ✅ Completed   | Caesar Cipher |
+| Day 9     | ✅ Completed   | Blind Auction project |
 | Day 10–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
@@ -122,12 +122,12 @@ Every day I upload:
 
 # 🚀 Featured Projects
 
-| Project                  | Description                      |
-| ------------------------ | -------------------------------- |
+| Project                  | Description                       |
+| ------------------------ | --------------------------------  |
 | 🎸 Band Name Generator   | Your first Python project        |
 | 💰 Tip Calculator        | Bill splitting calculator        |
-| 🏝️ Treasure Island      | Interactive adventure game       |
-| ✊✋✌️ Rock Paper Scissors | Classic game using Python        |
+| 🏝️ Treasure Island      | Interactive adventure game        |
+| ✊✋✌️ Rock Paper Scissors | Classic game using Python     |
 | 🔐 Password Generator    | Random secure password generator |
 | Reeborg's World Maze Challenge | Solve a maze using Python logic and loops |
 | Hangman-Game| Python word guessing game |
