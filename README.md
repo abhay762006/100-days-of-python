@@ -63,7 +63,8 @@ Every day I upload:
 | Day 7     | ✅ Completed   | Hangman-Game  |
 | Day 8     | ✅ Completed   | Caesar Cipher |
 | Day 9     | ✅ Completed   | Blind Auction project |
-| Day 10–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 10    | ✅ Completed   | Calculator |
+| Day 11–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
