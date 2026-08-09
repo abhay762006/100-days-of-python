@@ -134,6 +134,7 @@ Every day I upload:
 | Hangman-Game| Python word guessing game |
 | Caesar Cipher | Encryption/Decryption |
 | Blind Auction | Secret Highest Bid Wins ⭐|
+| Calculator | For normal Operations |
 
 ---
 
