@@ -66,12 +66,6 @@ The winner is Bob with a bid of $320.
 * Implementing decision-making with conditional statements
 * Organizing a small Python project into multiple files
 
-## Future Improvements
-
-* Input validation
-* Save auction results to a file
-* Support multiple auction rounds
-* Add a graphical user interface (GUI)
 
 ## Author
 
