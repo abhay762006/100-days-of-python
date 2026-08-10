@@ -3,6 +3,7 @@
 ## 📖 Project Overview
 This project is my solution to the **Reeborg's World Maze** challenge from the **100 Days of Python Bootcamp**.
 
+
 ## 🌐 Platform
 This code only works on **Reeborg's World** because it uses functions provided by the platform, such as:
 - `move()`
@@ -32,4 +33,4 @@ https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freebor
 - Maze-solving algorithms
 
 ---
-⭐ Part of my **100 Days of Python** learning journey.
+⭐ Part of my **100 Days of Python** learning journey. A good way of learning python
