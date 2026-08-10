@@ -23,11 +23,6 @@ A Python implementation of the Caesar Cipher encryption and decryption algorithm
 - User input
 - Code organization
 
-## How to Run
-
-```bash
-python main.py
-```
 
 ## What I Learned
 
