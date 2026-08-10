@@ -77,3 +77,5 @@ Display result
 Ask whether to continue
   ↓
 Exit or calculate again
+
+*Thank You *
