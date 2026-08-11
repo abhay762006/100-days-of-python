@@ -138,6 +138,7 @@ Every day I upload:
 | Caesar Cipher | Encryption/Decryption |
 | Blind Auction | Secret Highest Bid Wins ⭐|
 | Calculator | For normal Operations |
+| Black-jack Project| Classic Blackjack game built using Python.|
 
 ---
 
