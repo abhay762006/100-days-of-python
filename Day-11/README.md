@@ -31,6 +31,3 @@ The player plays against the computer and tries to get as close to 21 as possibl
 1. Clone this repository.
 2. Make sure Python is installed.
 3. Install the required `art` package if needed:
-
-```bash
-pip install art
