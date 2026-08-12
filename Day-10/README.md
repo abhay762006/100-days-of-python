@@ -32,12 +32,6 @@ After performing a calculation, the user can choose whether they want to perform
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Python 3**
-- Command Line / Terminal
-
----
 
 ## 🧠 Concepts Practiced
 
