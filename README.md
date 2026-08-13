@@ -67,7 +67,8 @@ Every day I upload:
 | Day 9     | ✅ Completed   | Blind Auction project |
 | Day 10    | ✅ Completed   | Calculator |
 | Day 11    | ✅ Completed   | Black-jack Project |
-| Day 12–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 12   | ✅ Completed   | Number Guessing Game |
+| Day 13–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
@@ -139,7 +140,7 @@ Every day I upload:
 | Blind Auction | Secret Highest Bid Wins ⭐|
 | Calculator | For normal Operations |
 | Black-jack Project| Classic Blackjack game built using Python.|
-
+| Number Guessing Game| Guess the Number and beat us |
 ---
 
 
