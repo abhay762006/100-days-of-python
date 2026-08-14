@@ -3,7 +3,6 @@
 A simple command-line Blackjack game built with Python.
 
 ## 🎮 About the Project
-
 This project is a Python implementation of the classic Blackjack card game.
 The player plays against the computer and tries to get as close to 21 as possible without going over.
 
