@@ -4,7 +4,7 @@ A simple command-line calculator built using Python. This project allows users t
 
 This project was created as part of my **100 Days of Python** learning journey to strengthen my programming fundamentals and problem-solving skills.
 
----
+
 
 ## 📌 About The Project
 
