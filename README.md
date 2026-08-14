@@ -68,7 +68,9 @@ Every day I upload:
 | Day 10    | ✅ Completed   | Calculator |
 | Day 11    | ✅ Completed   | Black-jack Project |
 | Day 12   | ✅ Completed   | Number Guessing Game |
-| Day 13–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 13    | ✅ Completed   | Debugging Codes  |
+| Day 14   | ✅ Completed   | Higher Lower  |
+| Day 15–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
@@ -141,6 +143,8 @@ Every day I upload:
 | Calculator | For normal Operations |
 | Black-jack Project| Classic Blackjack game built using Python.|
 | Number Guessing Game| Guess the Number and beat us |
+| Debugging Codes | Debugging the codes |
+| Higher Lower Game| Guessing who has higher Instagram follower |
 ---
 
 
