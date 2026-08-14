@@ -3,7 +3,6 @@
 A Python implementation of the Caesar Cipher encryption and decryption algorithm built as part of the **100 Days of Code: Python Bootcamp**.
 
 ## Features
-
 - Encrypts messages
 - Decrypts messages
 - Supports custom shift values
