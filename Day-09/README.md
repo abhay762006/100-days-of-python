@@ -5,7 +5,6 @@
 This is a command-line **Blind Auction** application built using Python. The program allows multiple users to place secret bids. After all participants have entered their bids, the application determines and displays the highest bidder and the winning bid.
 
 ## Features
-
 * Accepts multiple bidders
 * Keeps each bid confidential
 * Stores bidder names and bid amounts
