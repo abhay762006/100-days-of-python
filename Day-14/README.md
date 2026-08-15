@@ -31,7 +31,6 @@ Higher-Lower/
 ├── game_data.py
 └── art.py
 ```
-
 ## 🚀 What I Learned
 
 This project helped me practice **loops, functions, random selection, dictionaries, and conditional logic** while building a small interactive game.
