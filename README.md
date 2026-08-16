@@ -8,8 +8,6 @@
 
 *"Every expert was once a beginner who refused to quit."*
 
-*"Every bug is a lesson. Every project is progress"*
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![Days](https://img.shields.io/badge/Challenge-100%20Days-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
