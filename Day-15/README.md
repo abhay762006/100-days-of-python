@@ -43,15 +43,6 @@ python main.py
 * `report` — Display remaining resources and profit
 * `off` — Turn off the machine
 
-## Example
-
-```text
-What would you like? (espresso/latte/cappuccino): latte
-Please insert coins.
-Here is $0.5 in change.
-Here is your latte ☕️. Enjoy!
-```
-
 ## Goal
 
 This project was created to practice **Python programming logic, functions, dictionaries, loops, conditionals, and basic transaction handling**.
