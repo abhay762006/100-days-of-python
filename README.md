@@ -188,8 +188,6 @@ If you find this repository helpful:
 
 <div align="center">
 
-### ⭐ If you like this repository, don't forget to star it!
-
 🚀 Building one project every day, one step closer to becoming a Full Stack AI Developer.
 
 </div>
