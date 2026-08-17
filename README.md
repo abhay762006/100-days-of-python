@@ -68,7 +68,8 @@ Every day I upload:
 | Day 12   | ✅ Completed   | Number Guessing Game |
 | Day 13    | ✅ Completed   | Debugging Codes  |
 | Day 14   | ✅ Completed   | Higher Lower  |
-| Day 15–100 | ⏳ Coming Soon | Stay Tuned          |
+| Day 15   | ✅ Completed   | Coffee Machine  |
+| Day 16–100 | ⏳ Coming Soon | Stay Tuned          |
 
 ---
 
@@ -143,6 +144,7 @@ Every day I upload:
 | Number Guessing Game| Guess the Number and beat us |
 | Debugging Codes | Debugging the codes |
 | Higher Lower Game| Guessing who has higher Instagram follower |
+| Coffee Machine | A coffee making machine code|
 ---
 
 
