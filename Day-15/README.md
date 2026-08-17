@@ -25,12 +25,6 @@ A Python-based coffee machine simulation that allows users to order **espresso, 
 * Nested dictionaries
 * Resource management
 
-## How to Run
-
-1. Make sure Python is installed.
-2. Save the code as `main.py`.
-3. Run:
-
 
 ## Available Commands
 
