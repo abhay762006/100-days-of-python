@@ -31,9 +31,6 @@ A Python-based coffee machine simulation that allows users to order **espresso, 
 2. Save the code as `main.py`.
 3. Run:
 
-```bash
-python main.py
-```
 
 ## Available Commands
 
