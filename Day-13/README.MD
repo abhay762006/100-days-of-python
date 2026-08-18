@@ -17,4 +17,4 @@ I practiced finding errors, understanding why they happened, and fixing them to 
 
 The goal of Day 13 was to improve my **problem-solving and debugging skills** and become better at finding mistakes in my own code.
 
-**Day 13 completed ✅**
+
