@@ -5,7 +5,6 @@
 ### 🚀 From Beginner to AI Full Stack Developer Journey 
 
 *"Consistency beats intensity."*
-
 *"Every expert was once a beginner who refused to quit."*
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
