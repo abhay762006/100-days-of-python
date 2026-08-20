@@ -71,7 +71,7 @@ Every day, I aim to document what I worked on:
 | Day 13     | ✅ Completed   | Debugging Codes                |
 | Day 14     | ✅ Completed   | Higher Lower                   |
 | Day 15     | ✅ Completed   | Coffee Machine                 |
-| Day 16    | ✅ Completed   | Coffee Machine Using OOPS       |
+| Day 16     | ✅ Completed   | Coffee Machine Using OOPS      |
 | Day 17–100 | ⏳ Coming Soon | Learning, Practice & Projects  |
 
 > **Note:** Not every day will have a separate project. The focus is on learning, practicing, improving logic, and building projects when they are useful for applying what I have learned.
@@ -149,6 +149,7 @@ Every day, I aim to document what I worked on:
 | Debugging Codes                | Practice finding and fixing errors        |
 | Higher Lower Game              | Guess which account has more followers    |
 | Coffee Machine                 | Simulated coffee machine using Python     |
+| Coffee Machine using OOPS      | Advanced version of the Coffee Machine    |
 
 ---
 
