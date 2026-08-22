@@ -1,4 +1,3 @@
-
 # Quiz Game using Python OOP
 
 ## 📌 Description
