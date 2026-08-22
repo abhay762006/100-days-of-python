@@ -151,6 +151,7 @@ Every day, I aim to document what I worked on:
 | Higher Lower Game              | Guess which account has more followers    |
 | Coffee Machine                 | Simulated coffee machine using Python     |
 | Coffee Machine using OOPS      | Advanced version of the Coffee Machine    |
+| Quiz Game                      | Quiz Game using OOPs in Python            |
 
 ---
 
