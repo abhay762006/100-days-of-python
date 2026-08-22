@@ -23,10 +23,6 @@ The game asks the user a series of questions, checks the user's answers, and kee
 5. The score is updated for every correct answer.
 6. The final score is displayed at the end.
 
-## 🛠️ Technologies Used
-
-* Python 3
-* Object-Oriented Programming
 
 ## ▶️ How to Run
 
